@@ -270,6 +270,8 @@ btnSort.addEventListener('click', function (e) {
   e.preventDefault();
   displayMovements(currentAccount, !sorted);
   sorted = !sorted;
+
+  
 });
 
 /////////////////////////////////////////////////
